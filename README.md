@@ -11,9 +11,9 @@
 <div align = "center">
 
 <h3 align="center"> 💗 more 💗</h3>
-<p align="center"><img src="https://img.shields.io/badge/Tech Blog-fffff?style=flat-square&logo=vimeo&logoColor=white" height="25px"/> 
-  <img src="https://img.shields.io/badge/Instagram-E4405F?style=flat-square&logo=instagram&logoColor=white" height="25px"/> 
-  <img src="https://img.shields.io/badge/Gmail-EA4335?style=flat-square&logo=gmail&logoColor=white" height="25px"/></p>
+<p align="center"><a href="https://aranpark.tistory.com/"><img src="https://img.shields.io/badge/Tech Blog-fffff?style=flat-square&logo=vimeo&logoColor=white" height="25px"/> </a>
+  <a href="https://www.instagram.com/aranparrk/"><img src="https://img.shields.io/badge/Instagram-E4405F?style=flat-square&logo=instagram&logoColor=white" height="25px"/> </a>
+  <a href="mailto:aranparrk@gmail.com"><img src="https://img.shields.io/badge/Gmail-EA4335?style=flat-square&logo=gmail&logoColor=white" height="25px"/></a></p>
   
   <br>
   
