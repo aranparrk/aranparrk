@@ -1,6 +1,6 @@
 ![header](https://capsule-render.vercel.app/api?type=Waving&color=auto&height=300&section=header&text=Aran%20Park&fontSize=90)<br>
 
-<h3 align="center">Tech Stack :computer:</h3>
+<h3 align="center"> 🖥️ Tech Stack 🖥️</h3>
 
 <p align="center"><img src="https://img.shields.io/badge/Java-007396?style=flat-square&logo=Java&logoColor=white" height="25px"/></a>
 <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=JavaScript&logoColor=white" height="25px"/>
